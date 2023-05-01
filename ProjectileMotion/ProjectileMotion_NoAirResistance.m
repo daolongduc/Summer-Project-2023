@@ -2,7 +2,7 @@
 % units: N, m, s
 % the y-axis is upward
 % created by: Duc Dao
-% Github link: https://github.com/daolongduc/Summer-Project-2023/blob/main/ProjectileMotion/ProjectileMotion_NoAirResistance.m
+% Github link: https://github.com/daolongduc/Summer-Project-2023/tree/main/ProjectileMotion
 %================================
 clear; % clear all variables, if any
 close all; % close all figures, if any
